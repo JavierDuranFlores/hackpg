@@ -286,17 +286,60 @@ img {
     transition: all 300ms ease-in-out;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 660px) {
     .contenedor span {
-        font-size: 4rem;
+        font-size: 9rem;
+    }
+}
+
+@media (max-width: 590px) {
+    .contenedor span {
+        font-size: 8rem;
+    }
+}
+
+@media (max-width: 530px) {
+    .contenedor span {
+        font-size: 7rem;
     }
 }
 
 @media (max-width: 460px) {
     .contenedor span {
+        font-size: 6.2rem;
+    }
+}
+
+@media (max-width: 410px) {
+    .contenedor span {
+        font-size: 5.5rem;
+    }
+}
+
+@media (max-width: 360px) {
+    .contenedor span {
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 330px) {
+    .contenedor span {
+        font-size: 4.5rem;
+    }
+}
+
+@media (max-width: 290px) {
+    .contenedor span {
         font-size: 4rem;
     }
 }
+
+@media (max-width: 270px) {
+    .contenedor span {
+        font-size: 3.5rem;
+    }
+}
+
 
 @media (max-width: 250px) {
     .contenedor span {
@@ -306,13 +349,31 @@ img {
 
 @media (max-width: 210px) {
     .contenedor span {
+        font-size: 2.7rem;
+    }
+}
+
+@media (max-width: 175px) {
+    .contenedor span {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 165px) {
+    .contenedor span {
+        font-size: 2.2rem;
+    }
+}
+
+@media (max-width: 155px) {
+    .contenedor span {
         font-size: 2rem;
     }
 }
 
-@media (max-width: 140px) {
+@media (max-width: 145px) {
     .contenedor span {
-        font-size: 1rem;
+        font-size: 1.8rem;
     }
 }
 

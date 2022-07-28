@@ -310,6 +310,12 @@ img {
     }
 }
 
+@media (max-width: 140px) {
+    .contenedor span {
+        font-size: 1rem;
+    }
+}
+
 .contenedor span::before {
     content: var(--l);
     position: absolute;

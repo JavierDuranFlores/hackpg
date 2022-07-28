@@ -298,13 +298,13 @@ img {
     }
 }
 
-@media (max-width: 230px) {
+@media (max-width: 250px) {
     .contenedor span {
         font-size: 3rem;
     }
 }
 
-@media (max-width: 195px) {
+@media (max-width: 210px) {
     .contenedor span {
         font-size: 2rem;
     }

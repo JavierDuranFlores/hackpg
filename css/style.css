@@ -343,7 +343,13 @@ img {
 
 @media (max-width: 250px) {
     .contenedor span {
-        font-size: 3rem;
+        font-size: 3.5rem;
+    }
+}
+
+@media (max-width: 240px) {
+    .contenedor span {
+        font-size: 3.2rem;
     }
 }
 
@@ -416,5 +422,27 @@ img {
 }
 
 .contenedor span:nth-child(5) {
+    color: #bb00ff;
+}
+
+
+
+.contenedor span:nth-child(6) {
+    color: #00bef8;
+}
+
+.contenedor span:nth-child(7) {
+    color: #ff0697;
+}
+
+.contenedor span:nth-child(8) {
+    color: #ff4d00;
+}
+
+.contenedor span:nth-child(9) {
+    color: #ffe600;
+}
+
+.contenedor span:nth-child(10) {
     color: #bb00ff;
 }
